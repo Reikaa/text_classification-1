@@ -1,0 +1,176 @@
+Decision Tree: 
+-----------------------------------------
+484 (writes) IG: 0.214992437297
+ absent: 211 (god) IG: 0.109215568062
+    absent: 152 (that) IG: 0.0778348840957
+       absent: 73 (bible) IG: 0.0475424422994
+          absent: 9 (atheist) IG: 0.0383221894363
+             absent: 570 (keith) IG: 0.0410329471593
+                absent: 439 (murder) IG: 0.0292086159935
+                   absent: 2642 (laughter) IG: 0.0309621709558
+                      absent: 2700 (liar) IG: 0.0331068441937
+                         absent: 61 (for) IG: 0.0256321450998
+                            absent: 1 (name) IG: 0.0448630491791
+                               absent: 1009 (hope) IG: 0.0450538827068
+                                  absent: 564 (no) IG: 0.0461183402775
+                                     absent: 45 (word) IG: 0.0650730749546
+                                        absent: class2 (graphics)
+                                        present: class1 (atheism)
+                                     present: 157 (any) IG: 0.469565211115
+                                        absent: class2 (graphics)
+                                        present: 48 (is) IG: 0.918295834054
+                                           absent: class2 (graphics)
+                                           present: class1 (atheism)
+                                  present: 22 (are) IG: 1.0
+                                     absent: class1 (atheism)
+                                     present: class2 (graphics)
+                               present: 34 (it) IG: 0.918295834054
+                                  absent: class1 (atheism)
+                                  present: class2 (graphics)
+                            present: class2 (graphics)
+                         present: class1 (atheism)
+                      present: class1 (atheism)
+                   present: class1 (atheism)
+                present: class1 (atheism)
+             present: class1 (atheism)
+          present: class1 (atheism)
+       present: 187 (wrote) IG: 0.097186247382
+          absent: 51 (people) IG: 0.103212841661
+             absent: 369 (religious) IG: 0.109919810283
+                absent: 106 (an) IG: 0.0811137045412
+                   absent: 196 (he) IG: 0.110503284243
+                      absent: 1017 (face) IG: 0.0880882322008
+                         absent: 12 (organizations) IG: 0.0510273710056
+                            absent: 75 (biblical) IG: 0.0585718920788
+                               absent: 968 (doubt) IG: 0.0782324652577
+                                  absent: class2 (graphics)
+                                  present: class1 (atheism)
+                               present: class1 (atheism)
+                            present: class1 (atheism)
+                         present: class1 (atheism)
+                      present: 5 (last) IG: 0.721928094887
+                         absent: class1 (atheism)
+                         present: class2 (graphics)
+                   present: 54 (can) IG: 0.19281608686
+                      absent: 303 (what) IG: 0.26816481133
+                         absent: 302 (know) IG: 0.359984182355
+                            absent: 477 (will) IG: 0.458105895157
+                               absent: 66 (price) IG: 0.591672778582
+                                  absent: class1 (atheism)
+                                  present: class2 (graphics)
+                               present: class2 (graphics)
+                            present: class2 (graphics)
+                         present: class1 (atheism)
+                      present: 443 (day) IG: 0.322531220036
+                         absent: 2 (atheism) IG: 0.297472248919
+                            absent: class2 (graphics)
+                            present: class1 (atheism)
+                         present: class1 (atheism)
+                present: class1 (atheism)
+             present: 3186 (windows) IG: 0.696212260125
+                absent: class1 (atheism)
+                present: class2 (graphics)
+          present: 681 (ve) IG: 0.242018335608
+             absent: 1260 (came) IG: 0.39113491086
+                absent: 5 (last) IG: 0.258018668665
+                   absent: class1 (atheism)
+                   present: class2 (graphics)
+                present: class2 (graphics)
+             present: class2 (graphics)
+    present: 183 (use) IG: 0.212290066617
+       absent: class1 (atheism)
+       present: 0 (archive) IG: 1.0
+          absent: class2 (graphics)
+          present: class1 (atheism)
+ present: 3142 (graphics) IG: 0.118888826771
+    absent: 2108 (image) IG: 0.085767875642
+       absent: 152 (that) IG: 0.0864686295328
+          absent: 211 (god) IG: 0.108338840478
+             absent: 570 (keith) IG: 0.148815931386
+                absent: 63 (who) IG: 0.106888216292
+                   absent: 596 (have) IG: 0.0828759886993
+                      absent: 641 (am) IG: 0.126542265091
+                         absent: 897 (time) IG: 0.116313998057
+                            absent: 81 (by) IG: 0.119404126433
+                               absent: 43 (with) IG: 0.239020869564
+                                  absent: 300 (you) IG: 0.184202517513
+                                     absent: 15 (from) IG: 0.1234691524
+                                        absent: 481 (article) IG: 0.197351645243
+                                           absent: 165 (this) IG: 0.863120568567
+                                              absent: class2 (graphics)
+                                              present: class1 (atheism)
+                                           present: 55 (get) IG: 0.268995593589
+                                              absent: 57 (try) IG: 0.503258334776
+                                                 absent: class1 (atheism)
+                                                 present: class2 (graphics)
+                                              present: class2 (graphics)
+                                        present: class2 (graphics)
+                                     present: class1 (atheism)
+                                  present: class2 (graphics)
+                               present: class1 (atheism)
+                            present: class2 (graphics)
+                         present: class2 (graphics)
+                      present: 4 (alt) IG: 0.138240951179
+                         absent: 247 (as) IG: 0.218826397273
+                            absent: class2 (graphics)
+                            present: 95 (or) IG: 0.970950594455
+                               absent: class2 (graphics)
+                               present: class1 (atheism)
+                         present: class1 (atheism)
+                   present: 24 (the) IG: 0.468995593589
+                      absent: class2 (graphics)
+                      present: class1 (atheism)
+                present: class1 (atheism)
+             present: class1 (atheism)
+          present: 2269 (program) IG: 0.0591914776965
+             absent: 3320 (comp) IG: 0.0427413706246
+                absent: 1903 (uchicago) IG: 0.0340539729724
+                   absent: 2538 (edges) IG: 0.0359762933079
+                      absent: 2666 (slow) IG: 0.038197043123
+                         absent: 471 (files) IG: 0.0269337451967
+                            absent: 2388 (vnet) IG: 0.0282555129734
+                               absent: 108 (address) IG: 0.0302367794929
+                                  absent: 3218 (tiff) IG: 0.0327809157088
+                                     absent: 300 (you) IG: 0.0184464768987
+                                        absent: 596 (have) IG: 0.0710555302815
+                                           absent: 121 (they) IG: 0.0976205341271
+                                              absent: 247 (as) IG: 0.204204398445
+                                                 absent: 288 (more) IG: 0.199203505429
+                                                    absent: 111 (be) IG: 0.192829283906
+                                                       absent: 25 (in) IG: 0.503258334776
+                                                          absent: class2 (graphics)
+                                                          present: class1 (atheism)
+                                                       present: 51 (people) IG: 0.970950594455
+                                                          absent: class2 (graphics)
+                                                          present: class1 (atheism)
+                                                    present: class2 (graphics)
+                                                 present: class1 (atheism)
+                                              present: class1 (atheism)
+                                           present: class1 (atheism)
+                                        present: 2182 (format) IG: 0.0323518966905
+                                           absent: 2996 (extension) IG: 0.0414365710875
+                                              absent: class1 (atheism)
+                                              present: class2 (graphics)
+                                           present: class2 (graphics)
+                                     present: class2 (graphics)
+                                  present: 306 (make) IG: 0.970950594455
+                                     absent: class2 (graphics)
+                                     present: class1 (atheism)
+                               present: class2 (graphics)
+                            present: class2 (graphics)
+                         present: class2 (graphics)
+                      present: class2 (graphics)
+                   present: class2 (graphics)
+                present: class2 (graphics)
+             present: class2 (graphics)
+       present: class2 (graphics)
+    present: class2 (graphics)
+-----------------------------------------
+Prediction:
+Testing Data Accuracy:  80.6223479491
+Training Data Accuracy:  100.0
+-----------------------------------------
+
+Prediction with scikit-learn
+Testing Data Accuracy:  81.7538896747
+Training Data Accuracy:  100.0
